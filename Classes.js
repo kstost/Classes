@@ -1,3 +1,4 @@
+// okk
 var Classes = {
    SEPERATOR: '.',
    extract: function (domain) {
