@@ -1,0 +1,20 @@
+{
+  "name": "Classes",
+  "version": "1.0.0",
+  "description": "사용은 아래와 같이.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstost/Classes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kstost/Classes/issues"
+  },
+  "homepage": "https://github.com/kstost/Classes#readme"
+}
