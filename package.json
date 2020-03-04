@@ -1,7 +1,7 @@
 {
-  "name": "Classes",
+  "name": "klasses",
   "version": "1.0.0",
-  "description": "사용은 아래와 같이.",
+  "description": "a simple inheritance",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
