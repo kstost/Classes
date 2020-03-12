@@ -1,5 +1,7 @@
 사용은 아래와 같이.
 
+:)
+
 ```javascript
 Classes.define(['동물'], function (obj) {
     this.생년월일 = obj.생년월일;
